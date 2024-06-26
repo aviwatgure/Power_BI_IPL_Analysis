@@ -3,8 +3,11 @@
 
 The Indian Premier League (IPL) is one of the most popular and competitive T20 cricket leagues in the world. Since its inception in 2008, it has attracted a global audience and featured many of the best cricketers. This project aims to analyze IPL data from 2008 to 2020 to uncover interesting trends, insights, and patterns.
 
+![](dashboard.png)
 
 # Problem Statements
+
+![](PROBLEM_STATMENT.png)
 
 1. Which teams have been the most successful in IPL history?
 
@@ -30,6 +33,8 @@ The data cleaning is performed in Excel.
 
 we calculated the following key metrics:
 
+![](kpi.png)
+
 ### Team Performance Analysis
 
 - Winning percentages of teams over the years.
@@ -50,6 +55,7 @@ we calculated the following key metrics:
 
 -  Venue-specific performance trends for teams and players.
 
+![](charts.png)
 
 ### Match Outcome Factors
 - Impact of toss decisions on match outcomes.
@@ -67,6 +73,8 @@ we calculated the following key metrics:
 # Conclusion
 
 ### The IPL data analysis from 2008 to 2020 reveals several key insights:
+
+![](conclution.png)
 
  -  ### Team Performance: 
 Teams like Mumbai Indians and Chennai Super Kings have consistently performed well, winning multiple championships.
