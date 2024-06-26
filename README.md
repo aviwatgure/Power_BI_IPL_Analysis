@@ -90,6 +90,7 @@ Toss decisions, especially choosing to field first, often play a crucial role in
 
 # Recommendations
 
+![](reccomadation.png)
 
 - ### Team Strategies:
 Teams should analyze historical performance data and tailor their strategies according to opponent strengths and weaknesses.
